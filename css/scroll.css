@@ -1,0 +1,131 @@
+body {
+    margin-top: 60px;
+}
+
+.navbar-expand-sm {
+    font-family: Righteous;
+}
+
+#about {
+    z-index: 5;
+    position: relative;
+}
+
+#skills {
+    z-index: 5;
+    position: relative;
+}
+
+.showcase-left img {
+    width: 90%;
+    height: auto;
+    border-radius: 500px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    font-family: Righteous;
+}
+
+.showcase-right p {
+    font-family: Bitter;
+}
+
+.showcase-right {
+    margin-top: 30%;
+}
+
+#skills .mn {
+    width: 300px;
+}
+
+#skills .es {
+    width: 100px;
+}
+
+#skills .ex {
+    height: 100px;
+}
+
+#skills .rc {
+    width: 100px;
+}
+
+#skills .jq {
+    width: 100px;
+}
+
+#skills .bt {
+    width: 100px;
+}
+
+#skills .d3 {
+    width: 100px;
+}
+
+#skills .container {
+    padding-left: 10%;
+    margin-right: 5%;
+}
+
+#contact {
+    background-image: url(../img/contact.jpg);
+    background-position: 98% bottom;
+    opacity: .75;
+    color: white;
+}
+
+#contact2 {
+    margin-left: 20%;
+    margin-top: 10%;
+}
+
+footer {
+    padding: 30px;
+}
+
+.parallax-window {
+    min-height: 500px;
+    background: transparent;
+    padding: 100px 35px;
+}
+
+.parallax {
+    min-height: 250px;
+    background: transparent;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.social-btn .btn-lg:hover {
+    border-radius: 500px;
+    box-shadow: whitesmoke;
+}
+
+.social-btn .twitter:hover {
+    background-color: rgba(13, 172, 235, 0.911);
+    border-color: white;
+}
+
+.social-btn .facebook:hover {
+    background-color: rgba(30, 89, 252, 0.911);
+    border-color: white;
+}
+
+.social-btn .linkedin:hover {
+    background-color: rgb(26, 8, 195);
+    border-color: white;
+}
+
+.social-btn .github:hover {
+    background-color: rgba(0, 0, 0, 0.945);
+    border-color: white;
+}
+
+.social-btn .instagram:hover {
+    background-color: rgb(212, 27, 74);
+    border-color: white;
+}
